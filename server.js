@@ -1,3 +1,5 @@
+/*global require:true __dirname:true process:true console:true*/
+
 var express = require('express');
 var app = express();
 
